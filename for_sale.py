@@ -1,0 +1,1 @@
+items = ["Edible Glitter", "Inflatable Elephant", "Taco-Shaped Sleeping Bag", "Set of 5 Nicolas Cage Pillow Cases", "French Fry Holder for Car", "Lots of Glue"]
